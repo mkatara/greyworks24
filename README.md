@@ -1,6 +1,6 @@
 # GREYWORKS24
  
-#### The home page will have the following 10 features.
+__The home page will have the following 10 features__
 
 1. A banner image showing a database theme.
 1. A tab to show my portfolio of completed projects.
